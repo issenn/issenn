@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 
 #### Genshin Impact Statics
 
-![Genshin Card](https://genshin-card.issenn.repl.co/detail/rand/175121102.png)
+![Genshin Card](https://genshin-card.getloli.com/rand/175121102.png)
 
 #### ⬇️**Click on the picture below to leave your comment**⬇️
 
