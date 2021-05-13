@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ### Public Key
 
 - OpenPGP
+  - GPG key ID: [**`23299041A27FFAC3`**](https://keybase.io/issenn/pgp_keys.asc)
 - S/MIME ()
 
 ---
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
 ### Reach me 📫
 
 - [mail](mailto:issenn@issenn.ml)
+- [Keybase](https://keybase.io/issenn)
 <!-- - Website -->
 - [Blog](http://issenn.ml)
 - [Github](https://github.com/issenn)
